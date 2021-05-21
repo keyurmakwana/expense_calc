@@ -1,9 +1,4 @@
-![](./pic/pic1_50.png =100x20)[Screenshot_1621576035](https://user-images.githubusercontent.com/47387695/119088630-9833fe80-ba26-11eb-9ac7-3af4fc7c5b53.png)
-![Screenshot_1621575982](https://user-images.githubusercontent.com/47387695/119088632-99652b80-ba26-11eb-909e-aebb2ae9659a.png)
-![Screenshot_1621575987](https://user-images.githubusercontent.com/47387695/119088633-99fdc200-ba26-11eb-82d8-7c03b088ff4c.png)
-![Screenshot_1621575990](https://user-images.githubusercontent.com/47387695/119088634-9a965880-ba26-11eb-912c-dfefc725e822.png)
-![Screenshot_1621576010](https://user-images.githubusercontent.com/47387695/119088636-9a965880-ba26-11eb-9c1f-be7bbff13523.png)
-![Screenshot_1621576026](https://user-images.githubusercontent.com/47387695/119088637-9b2eef00-ba26-11eb-85cc-ab417b3e8a88.png)
+
 # expense_calc
 
 Expense calculator is offline app. To see your daily expense using chart graphics. You add your daily expense and can see in which day you have spent money more.
@@ -20,3 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![5](https://user-images.githubusercontent.com/47387695/119089242-78e9a100-ba27-11eb-87f2-8b5b9a24f1ca.PNG)
+![4](https://user-images.githubusercontent.com/47387695/119089247-7a1ace00-ba27-11eb-9c09-bd134d57b1ff.PNG)
+![3](https://user-images.githubusercontent.com/47387695/119089249-7ab36480-ba27-11eb-8242-0ef4c87d7bf1.PNG)
+![2](https://user-images.githubusercontent.com/47387695/119089250-7b4bfb00-ba27-11eb-8c3c-dd981b97b870.PNG)
+![1](https://user-images.githubusercontent.com/47387695/119089251-7be49180-ba27-11eb-9869-475c8a447524.PNG)
+![6](https://user-images.githubusercontent.com/47387695/119089253-7be49180-ba27-11eb-9284-1d95d209df84.PNG)
